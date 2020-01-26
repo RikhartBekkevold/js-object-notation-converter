@@ -31,21 +31,23 @@ Additionally, you can access the convert command through the <code>Packages</cod
 #### In Atom Editor
 Install the package through the Atom Editor itself:
 
-- Open Atom, or click the green <kbd style="border-radius: 4px; border: #68A672; color: #ffffff; background: #68A672; padding: 5px; display: inline;">Install</kbd> button at the top of [this page](https://www.atom.io/js-object-notation-converter)
-- Click <code>File</code> in the menubar at the top in Atom
-- Click <code>Settings</code> in the dropdown menu or press <kbd>ctrl-,</kbd> (win/linux) / <kbd>cmd-,</kbd> (mac)
-- Select <code>Install</code> in the left menu
-- Type <code>"js-object-notation-converter"</code> in the input field
-- Find the package in the results and click <kbd style="border-radius: 4px; border: #68A672; padding: 5px;color: #ffffff; background: #007acc; display: inline;">Install</kbd>
+1. Open Atom, or click the green <kbd style="border-radius: 4px; border: #68A672; color: #ffffff; background: #68A672; padding: 5px; display: inline;">Install</kbd> button at the top of [this page](https://atom.io/packages/js-object-notation-converter)
+2. Click <code>File</code> in the menubar at the top in Atom
+3. Click <code>Settings</code> in the dropdown menu or press <kbd>ctrl-,</kbd> (win/linux) / <kbd>cmd-,</kbd> (mac)
+4. Select <code>Install</code> in the left menu
+5. Type <code>"js-object-notation-converter"</code> in the input field
+6. Find the package in the results and click <kbd style="border-radius: 4px; border: #68A672; padding: 5px;color: #ffffff; background: #007acc; display: inline;">Install</kbd>
 
 #### Command Line
-In your terminal of choice, type:
+1. Install [Atom](https://atom.io/)
 
-```shell
-apm install js-object-notation-converter
-```
+2. In your terminal of choice, type:
 
-to install the latest version.
+    ```shell
+    apm install js-object-notation-converter
+    ```
+
+    to install the latest version.
 
 
 ## NB!
