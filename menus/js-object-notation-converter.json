@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Convert JS Object Notation",
+        "command": "js-object-notation-converter:convert"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Js Object Notation Converter",
+          "submenu": [
+            {
+              "label": "Convert",
+              "command": "js-object-notation-converter:convert"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

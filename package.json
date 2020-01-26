@@ -1,0 +1,16 @@
+{
+  "name": "js-object-notation-converter",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Converts between object literal notation and function statement (constructor) notation.",
+  "keywords": [],
+  "repository": "https://github.com/RikhartBekkevold/js-object-notation-converter",
+  "license": "MIT",
+  "activationEvents": [
+    "js-object-notation-converter:convert"
+  ],
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,8 @@
+{
+  ".platform-win32 atom-text-editor, .platform-linux atom-text-editor": {
+    "ctrl-alt-o": "js-object-notation-converter:convert"
+  },
+  ".platform-darwin atom-text-editor": {
+    "cmd-alt-o": "js-object-notation-converter:convert"
+  }
+}
