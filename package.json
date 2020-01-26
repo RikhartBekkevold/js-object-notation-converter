@@ -1,7 +1,7 @@
 {
   "name": "js-object-notation-converter",
   "main": "./lib/main",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Converts between object literal notation and function statement (constructor) notation.",
   "keywords": [
     "javascript",
